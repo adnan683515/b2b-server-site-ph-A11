@@ -10,7 +10,7 @@
 - Simplify the buying/selling process in B2B model.
 - Enable category-wise product browsing and user-based dashboards.
 
-
+## 🚀 Key Features:
 - Authentication system (Login/Signup)
 - Role-based access (admin, buyer, seller)
 - Product listing and filtering by category
